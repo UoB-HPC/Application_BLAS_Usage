@@ -1,0 +1,182 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../1/cp2k-scale-1_log31958.apl (1 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31959.apl (2 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31960.apl (3 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31961.apl (4 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31962.apl (5 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31963.apl (6 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31964.apl (7 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31965.apl (8 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31966.apl (9 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31967.apl (10 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31968.apl (11 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/cp2k-scale-1_log31969.apl (12 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31970.apl (13 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31971.apl (14 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31972.apl (15 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31973.apl (16 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31974.apl (17 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31975.apl (18 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31976.apl (19 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31977.apl (20 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31978.apl (21 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31979.apl (22 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31980.apl (23 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31981.apl (24 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31982.apl (25 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31983.apl (26 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31984.apl (27 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31985.apl (28 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31986.apl (29 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31987.apl (30 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31988.apl (31 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31989.apl (32 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31990.apl (33 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31991.apl (34 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31992.apl (35 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31993.apl (36 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31994.apl (37 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31995.apl (38 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31996.apl (39 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31997.apl (40 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31998.apl (41 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log31999.apl (42 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32000.apl (43 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32001.apl (44 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32002.apl (45 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32003.apl (46 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32004.apl (47 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32005.apl (48 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32006.apl (49 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32007.apl (50 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32008.apl (51 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32009.apl (52 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32010.apl (53 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32011.apl (54 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32012.apl (55 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32013.apl (56 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32014.apl (57 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32015.apl (58 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32016.apl (59 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32017.apl (60 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32018.apl (61 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32019.apl (62 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32020.apl (63 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/cp2k-scale-1_log32021.apl (64 out of 64, Estimated time left = 00:00:00) 
+BLAS level 1     : count   17851227    total time      36.3302  user count    7389635  user time      29.5862
+BLAS level 2     : count    6603582    total time       8.9482  user count     571902  user time       2.4728
+BLAS level 3     : count  227055761    total time     884.4104  user count  226979665  user time     880.0860
+LAPACK           : count    7594974    total time      90.7546  user count     465197  user time      42.7488
+FFT              : count       4864    total time       2.8585  user count       4352  user time       2.7934
+MATH             : count 3508023770    total time    1284.0389  user count 3507897612  user time    1283.8633
+ 
+Double precision : count  259064648    total time    1018.9895  user count  235365503  user time     953.4400
+Single precision : count       6900    total time       2.8207  user count       6396  user time       2.7566
+Double complex   : count      38784    total time       1.4470  user count      38784  user time       1.4470
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+FFT cases:
+----------
+ FFTW calls:
+       fftw_plan_guru_dft len=   [1]   plan-cnt=         64   plan-Time=     2.598906 exec-cnt=          0   exec-Time=     0.000000
+       fftw_plan_many_dft len= [4, 4, 4]   plan-cnt=         64   plan-Time=     0.017812 exec-cnt=          0   exec-Time=     0.000000
+            fftw_plan_dft len= [4, 4, 4]   plan-cnt=         64   plan-Time=     0.018958 exec-cnt=          0   exec-Time=     0.000000
+         fftw_plan_dft_3d len= [4, 4, 4]   plan-cnt=         64   plan-Time=     0.071490 exec-cnt=          0   exec-Time=     0.000000
+ ...of which the breakdown by 'howmany' cases shows:
+       fftw_plan_guru_dft len=   [1] howmany=          2  plan-cnt=         64   plan-Time=     2.598906 exec-cnt=          0   exec-Time=     0.000000   avg-time=     0.0000000000
+       fftw_plan_many_dft len= [4, 4, 4] howmany=          1  plan-cnt=         64   plan-Time=     0.017812 exec-cnt=          0   exec-Time=     0.000000   avg-time=     0.0000000000
+            fftw_plan_dft len= [4, 4, 4] howmany=          1  plan-cnt=         64   plan-Time=     0.018958 exec-cnt=          0   exec-Time=     0.000000   avg-time=     0.0000000000
+         fftw_plan_dft_3d len= [4, 4, 4] howmany=          1  plan-cnt=         64   plan-Time=     0.071490 exec-cnt=          0   exec-Time=     0.000000   avg-time=     0.0000000000
+ 
+BLAS cases:
+----------
+BLAS level 1:
+  dcopy_     cnt=    7157004  totTime=      26.5762   called_tot=    4662156  topTime=      24.9084    (%age of runtime:  0.200 )
+  daxpy_     cnt=    3979845  totTime=       3.8935   called_tot=    2392645  topTime=       2.9588    (%age of runtime:  0.024 )
+  dscal_     cnt=    3671306  totTime=       2.4164   called_tot=     135546  topTime=       0.1226    (%age of runtime:  0.001 )
+ zdscal_     cnt=      38784  totTime=       1.4470   called_tot=      38784  topTime=       1.4470    (%age of runtime:  0.012 )
+  dnrm2_     cnt=    2718994  totTime=       1.2445   called_tot=      67254  topTime=       0.0906    (%age of runtime:  0.001 )
+ idamax_     cnt=     162272  totTime=       0.2318   called_tot=       5600  topTime=       0.0048    (%age of runtime:  0.000 )
+   drot_     cnt=      11136  totTime=       0.1945   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+   ddot_     cnt=      88994  totTime=       0.1714   called_tot=      87650  topTime=       0.0540    (%age of runtime:  0.000 )
+  dswap_     cnt=      22892  totTime=       0.1549   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+BLAS level 2:
+  dgemv_     cnt=    6469994  totTime=       7.8750   called_tot=     460394  topTime=       2.2106    (%age of runtime:  0.018 )
+  dtrmv_     cnt=      44570  totTime=       0.5500   called_tot=      40858  topTime=       0.0661    (%age of runtime:  0.001 )
+  dtrsv_     cnt=      13824  totTime=       0.2554   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dsymv_     cnt=      57150  totTime=       0.1710   called_tot=      57150  topTime=       0.1710    (%age of runtime:  0.001 )
+   dger_     cnt=      16544  totTime=       0.0907   called_tot=      12000  topTime=       0.0190    (%age of runtime:  0.000 )
+  dsyr2_     cnt=       1500  totTime=       0.0061   called_tot=       1500  topTime=       0.0061    (%age of runtime:  0.000 )
+BLAS level 3:
+  dgemm_     cnt=  226963200  totTime=     879.6574   called_tot=  226926656  topTime=     878.1235    (%age of runtime:  7.066 )
+  dtrsm_     cnt=      50244  totTime=       2.5804   called_tot=      14916  topTime=       1.0993    (%age of runtime:  0.009 )
+  dtrmm_     cnt=       5624  totTime=       1.3427   called_tot=       1400  topTime=       0.0333    (%age of runtime:  0.000 )
+  dsyrk_     cnt=      35343  totTime=       0.7824   called_tot=      35343  topTime=       0.7824    (%age of runtime:  0.006 )
+ dsyr2k_     cnt=       1350  totTime=       0.0474   called_tot=       1350  topTime=       0.0474    (%age of runtime:  0.000 )
+Percentage in BLAS: 7.3396467028896435
+ 
+LAPACK cases:
+----------
+ dhseqr_     cnt=      15232  totTime=      18.1627 called_tot=      15232  topTime=      18.1627    (%age of runtime:  0.146 )
+ dlahqr_     cnt=       3200  totTime=      17.0508 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlarfg_     cnt=    2641358  totTime=      10.5449 called_tot=       1550  topTime=       0.0087    (%age of runtime:  0.000 )
+ dtrevc_     cnt=       7616  totTime=       9.0457 called_tot=       7616  topTime=       9.0457    (%age of runtime:  0.073 )
+  dsyev_     cnt=       1344  totTime=       6.3340 called_tot=       1344  topTime=       6.3340    (%age of runtime:  0.051 )
+  dgesv_     cnt=       7232  totTime=       5.0797 called_tot=       7232  topTime=       5.0797    (%age of runtime:  0.041 )
+ dgetrf_     cnt=       7232  totTime=       4.4159 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dgelss_     cnt=        512  totTime=       3.0899 called_tot=        512  topTime=       3.0899    (%age of runtime:  0.025 )
+ dsytrd_     cnt=       1344  totTime=       2.0848 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dsteqr_     cnt=       1744  totTime=       1.9426 called_tot=        400  topTime=       0.1721    (%age of runtime:  0.001 )
+ dorgtr_     cnt=       1344  totTime=       1.9397 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlapy2_     cnt=    2961019  totTime=       1.4917 called_tot=     288616  topTime=       0.1249    (%age of runtime:  0.001 )
+ dormbr_     cnt=       1024  totTime=       1.2448 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dormqr_     cnt=        512  totTime=       1.1769 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaln2_     cnt=    1587200  totTime=       0.8880 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaqr0_     cnt=       7616  totTime=       0.8447 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaed4_     cnt=     100881  totTime=       0.6329 called_tot=     100881  topTime=       0.6329    (%age of runtime:  0.005 )
+ dgebrd_     cnt=       1024  totTime=       0.5628 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dbdsqr_     cnt=        512  totTime=       0.5596 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dgetrs_     cnt=       7232  totTime=       0.5357 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dgebd2_     cnt=        512  totTime=       0.4136 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaqr3_     cnt=       3200  totTime=       0.3783 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dlarf_     cnt=       5056  totTime=       0.3481 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dorgbr_     cnt=       1024  totTime=       0.2925 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlabad_     cnt=      13568  totTime=       0.2508 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dormhr_     cnt=       3200  totTime=       0.2385 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlansy_     cnt=       1344  totTime=       0.1712 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dorglq_     cnt=       1536  totTime=       0.1412 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ iladlr_     cnt=       2688  totTime=       0.1211 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaswp_     cnt=      69376  totTime=       0.1121 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaed6_     cnt=      40839  totTime=       0.1101 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dorgl2_     cnt=        512  totTime=       0.1057 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ iparmq_     cnt=       9600  totTime=       0.0885 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dlas2_     cnt=       1024  totTime=       0.0602 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaset_     cnt=      46994  totTime=       0.0524 called_tot=      36050  topTime=       0.0288    (%age of runtime:  0.000 )
+ dlaev2_     cnt=       1743  totTime=       0.0505 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlartg_     cnt=      13056  totTime=       0.0476 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlarnv_     cnt=        952  totTime=       0.0454 called_tot=        952  topTime=       0.0454    (%age of runtime:  0.000 )
+ dlaruv_     cnt=        952  totTime=       0.0183 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dgehrd_     cnt=       3200  totTime=       0.0136 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlacpy_     cnt=       1100  totTime=       0.0130 called_tot=       1100  topTime=       0.0130    (%age of runtime:  0.000 )
+  drscl_     cnt=       2240  totTime=       0.0125 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlasv2_     cnt=        832  totTime=       0.0114 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlanv2_     cnt=       3712  totTime=       0.0084 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+    acos     cnt=       2112  totTime=       0.0068 called_tot=       2112  topTime=       0.0068    (%age of runtime:  0.000 )
+ dlaqr4_     cnt=       3200  totTime=       0.0053 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlanst_     cnt=       2144  totTime=       0.0039 called_tot=        400  topTime=       0.0021    (%age of runtime:  0.000 )
+ dlascl_     cnt=       1200  totTime=       0.0021 called_tot=       1200  topTime=       0.0021    (%age of runtime:  0.000 )
+ dlange_     cnt=       1024  totTime=       0.0019 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ iladlc_     cnt=       1856  totTime=       0.0018 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ 
+Math cases:
+----------
+     exp     cnt= 3272602295  totTime=    1185.1622 called_tot= 3272602295  topTime=    1185.1622    (%age of runtime:  9.537 )
+    cbrt     cnt=  232733483  totTime=      97.2629 called_tot=  232733483  topTime=      97.2629    (%age of runtime:  0.783 )
+     sin     cnt=    1445929  totTime=       0.6909 called_tot=    1445929  topTime=       0.6909    (%age of runtime:  0.006 )
+     cos     cnt=     835393  totTime=       0.3807 called_tot=     835393  topTime=       0.3807    (%age of runtime:  0.003 )
+     pow     cnt=     203712  totTime=       0.3290 called_tot=     203200  topTime=       0.3284    (%age of runtime:  0.003 )
+     log     cnt=     181710  totTime=       0.1302 called_tot=      69632  topTime=       0.0262    (%age of runtime:  0.000 )
+   log10     cnt=      13568  totTime=       0.0710 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+    sinh     cnt=       7680  totTime=       0.0120 called_tot=       7680  topTime=       0.0120    (%age of runtime:  0.000 )
+Created /tmp/armpl.blas 
+Visualize using ./blas_usage.py -x -l -i /tmp/armpl.blas
