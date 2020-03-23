@@ -1,0 +1,94 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../1/hpl-scale-1-log66442.apl (1 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66443.apl (2 out of 64, Estimated time left = 00:00:12) 
+Opening file ../1/hpl-scale-1-log66444.apl (3 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/hpl-scale-1-log66445.apl (4 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/hpl-scale-1-log66446.apl (5 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/hpl-scale-1-log66447.apl (6 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/hpl-scale-1-log66448.apl (7 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/hpl-scale-1-log66449.apl (8 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66450.apl (9 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66451.apl (10 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66452.apl (11 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/hpl-scale-1-log66453.apl (12 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/hpl-scale-1-log66454.apl (13 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66455.apl (14 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66456.apl (15 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66457.apl (16 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66458.apl (17 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66459.apl (18 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66460.apl (19 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66461.apl (20 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66462.apl (21 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/hpl-scale-1-log66463.apl (22 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66464.apl (23 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66465.apl (24 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66466.apl (25 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66467.apl (26 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66468.apl (27 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66469.apl (28 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66470.apl (29 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66471.apl (30 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66472.apl (31 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66473.apl (32 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66474.apl (33 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/hpl-scale-1-log66475.apl (34 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66476.apl (35 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66477.apl (36 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66478.apl (37 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66479.apl (38 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66480.apl (39 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66481.apl (40 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66482.apl (41 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66483.apl (42 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66484.apl (43 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66485.apl (44 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66486.apl (45 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66487.apl (46 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66488.apl (47 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66489.apl (48 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66490.apl (49 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/hpl-scale-1-log66491.apl (50 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66492.apl (51 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66493.apl (52 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66494.apl (53 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66495.apl (54 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66496.apl (55 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66497.apl (56 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66498.apl (57 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66499.apl (58 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66500.apl (59 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66501.apl (60 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66502.apl (61 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66503.apl (62 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66504.apl (63 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/hpl-scale-1-log66505.apl (64 out of 64, Estimated time left = 00:00:00) 
+BLAS level 1     : count    7595508    total time      42.0778  user count    7595508  user time      42.0778
+BLAS level 2     : count     667912    total time     110.9108  user count     667912  user time     110.9108
+BLAS level 3     : count  188606538    total time  231540.5589  user count  188606538  user time  231540.5589
+LAPACK           : count          0    total time       0.0000  user count          0  user time       0.0000
+FFT              : count          0    total time       0.0000  user count          0  user time       0.0000
+MATH             : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+Double precision : count  196869958    total time  231693.5476  user count  196869958  user time  231693.5476
+Single precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Double complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+BLAS cases:
+----------
+BLAS level 1:
+ idamax_     cnt=    1303337  totTime=      11.1636   called_tot=    1303337  topTime=      11.1636    (%age of runtime:  0.004 )
+  daxpy_     cnt=     987440  totTime=      10.6016   called_tot=     987440  topTime=      10.6016    (%age of runtime:  0.004 )
+  dscal_     cnt=    1308672  totTime=      10.2064   called_tot=    1308672  topTime=      10.2064    (%age of runtime:  0.004 )
+  dcopy_     cnt=    3996059  totTime=      10.1063   called_tot=    3996059  topTime=      10.1063    (%age of runtime:  0.004 )
+BLAS level 2:
+  dgemv_     cnt=      12724  totTime=      99.4807   called_tot=      12724  topTime=      99.4807    (%age of runtime:  0.037 )
+   dger_     cnt=     654336  totTime=      11.3355   called_tot=     654336  topTime=      11.3355    (%age of runtime:  0.004 )
+  dtrsv_     cnt=        852  totTime=       0.0946   called_tot=        852  topTime=       0.0946    (%age of runtime:  0.000 )
+BLAS level 3:
+  dgemm_     cnt=   94623621  totTime=  229231.0809   called_tot=   94623621  topTime=  229231.0809    (%age of runtime: 86.403 )
+  dtrsm_     cnt=   93982917  totTime=    2309.4780   called_tot=   93982917  topTime=    2309.4780    (%age of runtime:  0.871 )
+Percentage in BLAS: 87.33164470099159
+Created /tmp/armpl.blas 
+Visualize using ./blas_usage.py -x -l -i /tmp/armpl.blas
