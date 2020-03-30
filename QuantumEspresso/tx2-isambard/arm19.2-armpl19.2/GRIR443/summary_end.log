@@ -1,0 +1,14 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../end/quantum-espresso-g443-scale-end*.apl (1 out of 1, Estimated time left = 00:00:00) 
+File >>>../end/quantum-espresso-g443-scale-end*.apl<<< is not readable.  Skipping...
+BLAS level 1     : count          0    total time       0.0000  user count          0  user time       0.0000
+BLAS level 2     : count          0    total time       0.0000  user count          0  user time       0.0000
+BLAS level 3     : count          0    total time       0.0000  user count          0  user time       0.0000
+LAPACK           : count          0    total time       0.0000  user count          0  user time       0.0000
+FFT              : count          0    total time       0.0000  user count          0  user time       0.0000
+MATH             : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+Double precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Single precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Double complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000

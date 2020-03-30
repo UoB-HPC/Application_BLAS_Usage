@@ -1,0 +1,153 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../1/quantum-espresso-g443-scale-1-log255968.apl (1 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255969.apl (2 out of 64, Estimated time left = 00:00:15) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255970.apl (3 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255971.apl (4 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255972.apl (5 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255973.apl (6 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255974.apl (7 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255975.apl (8 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255976.apl (9 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255977.apl (10 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255978.apl (11 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255979.apl (12 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255980.apl (13 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255981.apl (14 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255982.apl (15 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255983.apl (16 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255984.apl (17 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255985.apl (18 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255986.apl (19 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255987.apl (20 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255988.apl (21 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255989.apl (22 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255990.apl (23 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255991.apl (24 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255992.apl (25 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255993.apl (26 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255994.apl (27 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255995.apl (28 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255996.apl (29 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255997.apl (30 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255998.apl (31 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-g443-scale-1-log255999.apl (32 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256000.apl (33 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256001.apl (34 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256002.apl (35 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256003.apl (36 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256004.apl (37 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256005.apl (38 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256006.apl (39 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256007.apl (40 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256008.apl (41 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256009.apl (42 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256010.apl (43 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256011.apl (44 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256012.apl (45 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256013.apl (46 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256014.apl (47 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256015.apl (48 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256016.apl (49 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256017.apl (50 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256018.apl (51 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256019.apl (52 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256020.apl (53 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256021.apl (54 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256022.apl (55 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256023.apl (56 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256024.apl (57 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256025.apl (58 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256026.apl (59 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256027.apl (60 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256028.apl (61 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256029.apl (62 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256030.apl (63 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-g443-scale-1-log256031.apl (64 out of 64, Estimated time left = 00:00:00) 
+BLAS level 1     : count   58842657    total time      72.2467  user count   46029797  user time      62.6522
+BLAS level 2     : count    9143310    total time    4820.9228  user count    8977346  user time    4820.2543
+BLAS level 3     : count    2888074    total time  273847.9244  user count    2883210  user time  273847.0639
+LAPACK           : count   10778040    total time     217.8275  user count    9086160  user time     209.8708
+FFT              : count 2130504768    total time   33156.0094  user count 2130504768  user time   33156.0094
+MATH             : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+Double precision : count   54122813    total time     853.7329  user count   48397077  user time     842.0459
+Single precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Double complex   : count 2158008462    total time  311261.1726  user count 2149083948  user time  311253.8039
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+FFT cases:
+----------
+ FFTW calls:
+ ...of which the breakdown by 'howmany' cases shows:
+ Other calls:
+                 zfft1mx_ len= [192]   plan-cnt=      35834   plan-Time=     0.414946 exec-cnt=          0   exec-Time=     0.000000
+ 
+BLAS cases:
+----------
+BLAS level 1:
+  dcopy_     cnt=   36892019  totTime=      24.1240   called_tot=   36818419  topTime=      24.0706    (%age of runtime:  0.005 )
+   ddot_     cnt=    1379968  totTime=      16.3984   called_tot=    1306368  topTime=      16.3494    (%age of runtime:  0.003 )
+  zscal_     cnt=    9690390  totTime=       9.1660   called_tot=     789720  topTime=       1.8587    (%age of runtime:  0.000 )
+  zcopy_     cnt=    3929302  totTime=       8.2274   called_tot=    3929302  topTime=       8.2274    (%age of runtime:  0.002 )
+  dnrm2_     cnt=    1903226  totTime=       7.2093   called_tot=    1783562  topTime=       6.9604    (%age of runtime:  0.001 )
+  zaxpy_     cnt=     741904  totTime=       3.2955   called_tot=     741904  topTime=       3.2955    (%age of runtime:  0.001 )
+  zdotc_     cnt=     478668  totTime=       1.5882   called_tot=     478668  topTime=       1.5882    (%age of runtime:  0.000 )
+  dswap_     cnt=    3197398  totTime=       1.4621   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ idamax_     cnt=     213616  totTime=       0.2504   called_tot=       6400  topTime=       0.0194    (%age of runtime:  0.000 )
+  dscal_     cnt=     221630  totTime=       0.1966   called_tot=       4750  topTime=       0.0147    (%age of runtime:  0.000 )
+ zdscal_     cnt=     119504  totTime=       0.1789   called_tot=     119504  topTime=       0.1789    (%age of runtime:  0.000 )
+   drot_     cnt=      51005  totTime=       0.0864   called_tot=      51005  topTime=       0.0864    (%age of runtime:  0.000 )
+ dznrm2_     cnt=      23832  totTime=       0.0607   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  daxpy_     cnt=        195  totTime=       0.0027   called_tot=        195  topTime=       0.0027    (%age of runtime:  0.000 )
+BLAS level 2:
+  zgemv_     cnt=    7146012  totTime=    3047.6867   called_tot=    7146000  topTime=    3047.6661    (%age of runtime:  0.615 )
+  zgerc_     cnt=     598750  totTime=    1452.4678   called_tot=     598750  topTime=    1452.4678    (%age of runtime:  0.293 )
+  zhemv_     cnt=     993706  totTime=     237.2131   called_tot=     993706  topTime=     237.2131    (%age of runtime:  0.048 )
+  ztrmv_     cnt=     215058  totTime=      67.1842   called_tot=     215058  topTime=      67.1842    (%age of runtime:  0.014 )
+  zher2_     cnt=      23832  totTime=      15.7230   called_tot=      23832  topTime=      15.7230    (%age of runtime:  0.003 )
+   dsyr_     cnt=      87168  totTime=       0.2204   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dgemv_     cnt=       2432  totTime=       0.1737   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dsymv_     cnt=      73600  totTime=       0.1511   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dtrmv_     cnt=       2752  totTime=       0.1028   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+BLAS level 3:
+  zgemm_     cnt=    2545796  totTime=  273010.6031   called_tot=    2545796  topTime=  273010.6031    (%age of runtime: 55.088 )
+  dgemm_     cnt=     329470  totTime=     592.0638   called_tot=     327038  topTime=     591.4512    (%age of runtime:  0.119 )
+  ztrmm_     cnt=        640  totTime=     121.8973   called_tot=        640  topTime=     121.8973    (%age of runtime:  0.025 )
+  ztrsm_     cnt=       7920  totTime=      65.1979   called_tot=       7920  topTime=      65.1979    (%age of runtime:  0.013 )
+ zher2k_     cnt=        908  totTime=      38.6599   called_tot=        908  topTime=      38.6599    (%age of runtime:  0.008 )
+  zherk_     cnt=        908  totTime=      19.2546   called_tot=        908  topTime=      19.2546    (%age of runtime:  0.004 )
+  dtrsm_     cnt=       2432  totTime=       0.2478   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Percentage in BLAS: 56.24169792740591
+ 
+LAPACK cases:
+----------
+ dsteqr_     cnt=        160  totTime=     114.6798 called_tot=        160  topTime=     114.6798    (%age of runtime:  0.023 )
+ dlaed4_     cnt=    1433778  totTime=      71.2364 called_tot=    1433778  topTime=      71.2364    (%age of runtime:  0.014 )
+  dptsv_     cnt=      31500  totTime=       4.1275 called_tot=      31500  topTime=       4.1275    (%age of runtime:  0.001 )
+ dgetrf_     cnt=        320  totTime=       4.0086 called_tot=        320  topTime=       4.0086    (%age of runtime:  0.001 )
+ zlaset_     cnt=     244084  totTime=       3.3593 called_tot=     244084  topTime=       3.3593    (%age of runtime:  0.001 )
+ dpttrs_     cnt=      31500  totTime=       3.3494 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlapy2_     cnt=    6340654  totTime=       2.0666 called_tot=    6116950  topTime=       1.9767    (%age of runtime:  0.000 )
+ dlaset_     cnt=       6432  totTime=       1.7797 called_tot=       6432  topTime=       1.7797    (%age of runtime:  0.000 )
+ zladiv_     cnt=     502832  totTime=       1.5545 called_tot=     479000  topTime=       1.5137    (%age of runtime:  0.000 )
+ dsytrf_     cnt=      13568  totTime=       1.4719 called_tot=      13568  topTime=       1.4719    (%age of runtime:  0.000 )
+ dlaed6_     cnt=     801948  totTime=       1.2950 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dsytf2_     cnt=      13568  totTime=       1.1097 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlapy3_     cnt=     502832  totTime=       1.0903 called_tot=     479000  topTime=       1.0747    (%age of runtime:  0.000 )
+ dgetri_     cnt=        320  totTime=       1.0258 called_tot=        320  topTime=       1.0258    (%age of runtime:  0.000 )
+ dsytri_     cnt=      13568  totTime=       0.8524 called_tot=      13568  topTime=       0.8524    (%age of runtime:  0.000 )
+ zlarfg_     cnt=      23832  totTime=       0.8201 called_tot=      23832  topTime=       0.8201    (%age of runtime:  0.000 )
+ dlacpy_     cnt=        800  totTime=       0.7638 called_tot=        800  topTime=       0.7638    (%age of runtime:  0.000 )
+ dladiv_     cnt=     502832  totTime=       0.7145 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ zlacgv_     cnt=     239008  totTime=       0.5712 called_tot=     239008  topTime=       0.5712    (%age of runtime:  0.000 )
+ dpttrf_     cnt=      31500  totTime=       0.5311 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ zlacpy_     cnt=        640  totTime=       0.5146 called_tot=        640  topTime=       0.5146    (%age of runtime:  0.000 )
+ dptts2_     cnt=      31500  totTime=       0.3798 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dtrtri_     cnt=        320  totTime=       0.2530 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dtrti2_     cnt=        320  totTime=       0.1435 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlanst_     cnt=        960  totTime=       0.0644 called_tot=        800  topTime=       0.0627    (%age of runtime:  0.000 )
+ dlascl_     cnt=       2400  totTime=       0.0320 called_tot=       2400  topTime=       0.0320    (%age of runtime:  0.000 )
+ dlaswp_     cnt=       4864  totTime=       0.0313 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaev2_     cnt=       2000  totTime=       0.0014 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Created /tmp/armpl.blas 
+Visualize using ./blas_usage.py -x -l -i /tmp/armpl.blas

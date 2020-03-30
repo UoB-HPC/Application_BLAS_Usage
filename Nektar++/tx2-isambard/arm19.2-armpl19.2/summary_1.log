@@ -1,0 +1,100 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../1/nektar++-scale-1-log213744.apl (1 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213745.apl (2 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213746.apl (3 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213747.apl (4 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213748.apl (5 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213749.apl (6 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213750.apl (7 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213751.apl (8 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213752.apl (9 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213753.apl (10 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213754.apl (11 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213755.apl (12 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213756.apl (13 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213757.apl (14 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213758.apl (15 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213759.apl (16 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213760.apl (17 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213761.apl (18 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213762.apl (19 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213763.apl (20 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213764.apl (21 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213765.apl (22 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213766.apl (23 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213767.apl (24 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213768.apl (25 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213769.apl (26 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213770.apl (27 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213771.apl (28 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213772.apl (29 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213773.apl (30 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213774.apl (31 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213775.apl (32 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213776.apl (33 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213777.apl (34 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213778.apl (35 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213779.apl (36 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213780.apl (37 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213781.apl (38 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213782.apl (39 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213783.apl (40 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213784.apl (41 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213785.apl (42 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213786.apl (43 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213787.apl (44 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213788.apl (45 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213789.apl (46 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213790.apl (47 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213791.apl (48 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213792.apl (49 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213793.apl (50 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213794.apl (51 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213795.apl (52 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213796.apl (53 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213797.apl (54 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213798.apl (55 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213799.apl (56 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213800.apl (57 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213801.apl (58 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213802.apl (59 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213803.apl (60 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213804.apl (61 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213805.apl (62 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213806.apl (63 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/nektar++-scale-1-log213807.apl (64 out of 64, Estimated time left = 00:00:00) 
+BLAS level 1     : count 26692006956    total time   16791.8487  user count          0  user time       0.0000
+BLAS level 2     : count 26691997135    total time   65590.5519  user count 26691987320  user time   65590.4610
+BLAS level 3     : count 90151104966    total time  148020.5909  user count 90151095592  user time  148020.3456
+LAPACK           : count      11138    total time       0.9312  user count        882  user time       0.6905
+FFT              : count          0    total time       0.0000  user count          0  user time       0.0000
+MATH             : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+Double precision : count 143535120195    total time  230403.9227  user count 116843083794  user time  213611.4972
+Single precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Double complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+BLAS cases:
+----------
+BLAS level 1:
+  dscal_     cnt= 26692002141  totTime=   16791.8292   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ idamax_     cnt=       4687  totTime=       0.0145   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dswap_     cnt=        128  totTime=       0.0050   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+BLAS level 2:
+  dgemv_     cnt= 26691992007  totTime=   65590.4788   called_tot= 26691987320  topTime=   65590.4610    (%age of runtime: 11.776 )
+  dtrmv_     cnt=       5128  totTime=       0.0731   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+BLAS level 3:
+  dgemm_     cnt= 90151100279  totTime=  148020.5495   called_tot= 90151095592  topTime=  148020.3456    (%age of runtime: 26.575 )
+  dtrsm_     cnt=       4687  totTime=       0.0414   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Percentage in BLAS: 38.351252512640215
+ 
+LAPACK cases:
+----------
+ dgetrf_     cnt=        441  totTime=       0.4638 called_tot=        441  topTime=       0.4638    (%age of runtime:  0.000 )
+ dgetri_     cnt=        441  totTime=       0.2267 called_tot=        441  topTime=       0.2267    (%age of runtime:  0.000 )
+ dtrtri_     cnt=        441  totTime=       0.1296 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dtrti2_     cnt=        441  totTime=       0.0986 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlaswp_     cnt=       9374  totTime=       0.0125 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Created /tmp/armpl.blas 
+Visualize using ./blas_usage.py -x -l -i /tmp/armpl.blas

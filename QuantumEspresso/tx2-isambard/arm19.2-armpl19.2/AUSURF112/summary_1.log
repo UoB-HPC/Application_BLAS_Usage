@@ -1,0 +1,147 @@
+Process full dataset for BLAS, LAPACK and FFT function usage.
+Opening file ../1/quantum-espresso-au112-scale-1-log95301.apl (1 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95302.apl (2 out of 64, Estimated time left = 00:00:35) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95303.apl (3 out of 64, Estimated time left = 00:00:23) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95304.apl (4 out of 64, Estimated time left = 00:00:23) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95305.apl (5 out of 64, Estimated time left = 00:00:18) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95306.apl (6 out of 64, Estimated time left = 00:00:20) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95307.apl (7 out of 64, Estimated time left = 00:00:17) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95308.apl (8 out of 64, Estimated time left = 00:00:18) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95309.apl (9 out of 64, Estimated time left = 00:00:16) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95310.apl (10 out of 64, Estimated time left = 00:00:18) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95311.apl (11 out of 64, Estimated time left = 00:00:16) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95313.apl (12 out of 64, Estimated time left = 00:00:17) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95314.apl (13 out of 64, Estimated time left = 00:00:15) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95315.apl (14 out of 64, Estimated time left = 00:00:18) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95316.apl (15 out of 64, Estimated time left = 00:00:17) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95317.apl (16 out of 64, Estimated time left = 00:00:16) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95318.apl (17 out of 64, Estimated time left = 00:00:15) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95319.apl (18 out of 64, Estimated time left = 00:00:15) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95320.apl (19 out of 64, Estimated time left = 00:00:14) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95321.apl (20 out of 64, Estimated time left = 00:00:14) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95322.apl (21 out of 64, Estimated time left = 00:00:13) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95323.apl (22 out of 64, Estimated time left = 00:00:13) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95324.apl (23 out of 64, Estimated time left = 00:00:12) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95325.apl (24 out of 64, Estimated time left = 00:00:12) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95326.apl (25 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95327.apl (26 out of 64, Estimated time left = 00:00:12) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95328.apl (27 out of 64, Estimated time left = 00:00:12) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95329.apl (28 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95330.apl (29 out of 64, Estimated time left = 00:00:11) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95331.apl (30 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95332.apl (31 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95333.apl (32 out of 64, Estimated time left = 00:00:10) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95334.apl (33 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95335.apl (34 out of 64, Estimated time left = 00:00:09) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95336.apl (35 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95337.apl (36 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95338.apl (37 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95339.apl (38 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95340.apl (39 out of 64, Estimated time left = 00:00:08) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95341.apl (40 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95342.apl (41 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95343.apl (42 out of 64, Estimated time left = 00:00:07) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95344.apl (43 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95345.apl (44 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95346.apl (45 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95347.apl (46 out of 64, Estimated time left = 00:00:06) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95348.apl (47 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95349.apl (48 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95350.apl (49 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95351.apl (50 out of 64, Estimated time left = 00:00:05) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95352.apl (51 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95353.apl (52 out of 64, Estimated time left = 00:00:04) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95354.apl (53 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95355.apl (54 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95356.apl (55 out of 64, Estimated time left = 00:00:03) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95357.apl (56 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95358.apl (57 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95359.apl (58 out of 64, Estimated time left = 00:00:02) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95360.apl (59 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95361.apl (60 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95362.apl (61 out of 64, Estimated time left = 00:00:01) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95363.apl (62 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95364.apl (63 out of 64, Estimated time left = 00:00:00) 
+Opening file ../1/quantum-espresso-au112-scale-1-log95365.apl (64 out of 64, Estimated time left = 00:00:00) 
+BLAS level 1     : count   26989742    total time      33.4229  user count   18923772  user time      26.5728
+BLAS level 2     : count    6886158    total time    1469.9756  user count    6802782  user time    1445.3599
+BLAS level 3     : count    1320378    total time   11885.6372  user count    1317050  user time   11885.1509
+LAPACK           : count   10336179    total time     131.9011  user count    8967391  user time     129.6538
+FFT              : count  470525504    total time    2381.7870  user count  470525504  user time    2381.7870
+MATH             : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+Double precision : count   25141519    total time     260.7257  user count   22178076  user time     256.5089
+Single precision : count          0    total time       0.0000  user count          0  user time       0.0000
+Double complex   : count  490893329    total time   15641.9789  user count  484357927  user time   15612.0145
+Single complex   : count          0    total time       0.0000  user count          0  user time       0.0000
+ 
+FFT cases:
+----------
+ FFTW calls:
+ ...of which the breakdown by 'howmany' cases shows:
+ Other calls:
+                 zfft1mx_ len= [288]   plan-cnt=      23674   plan-Time=     0.296897 exec-cnt=          0   exec-Time=     0.000000
+ 
+BLAS cases:
+----------
+BLAS level 1:
+  dcopy_     cnt=   12194535  totTime=       7.9693   called_tot=   12194535  topTime=       7.9693    (%age of runtime:  0.004 )
+  zscal_     cnt=    7177431  totTime=       7.1181   called_tot=     744303  topTime=       1.5005    (%age of runtime:  0.001 )
+  zcopy_     cnt=    2867838  totTime=       5.6140   called_tot=    2867838  topTime=       5.6140    (%age of runtime:  0.003 )
+  dnrm2_     cnt=    1370501  totTime=       5.0033   called_tot=    1257657  topTime=       4.8501    (%age of runtime:  0.002 )
+   ddot_     cnt=     573952  totTime=       2.9341   called_tot=     573952  topTime=       2.9341    (%age of runtime:  0.001 )
+  zaxpy_     cnt=     699430  totTime=       2.3406   called_tot=     699430  topTime=       2.3406    (%age of runtime:  0.001 )
+  zdotc_     cnt=     451288  totTime=       1.1204   called_tot=     451288  topTime=       1.1204    (%age of runtime:  0.001 )
+  dswap_     cnt=    1263380  totTime=       0.7993   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ zdscal_     cnt=     112534  totTime=       0.1873   called_tot=     112534  topTime=       0.1873    (%age of runtime:  0.000 )
+ idamax_     cnt=     126908  totTime=       0.1660   called_tot=      12400  topTime=       0.0255    (%age of runtime:  0.000 )
+  dscal_     cnt=     129217  totTime=       0.1180   called_tot=       9525  topTime=       0.0225    (%age of runtime:  0.000 )
+ dznrm2_     cnt=      22418  totTime=       0.0440   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+   drot_     cnt=        310  totTime=       0.0084   called_tot=        310  topTime=       0.0084    (%age of runtime:  0.000 )
+BLAS level 2:
+  zgemv_     cnt=    5456962  totTime=     971.1500   called_tot=    5377106  topTime=     946.8408    (%age of runtime:  0.467 )
+  zgerc_     cnt=     564775  totTime=     364.1131   called_tot=     564775  topTime=     364.1131    (%age of runtime:  0.180 )
+  zhemv_     cnt=     636006  totTime=     107.9626   called_tot=     636006  topTime=     107.9626    (%age of runtime:  0.053 )
+  ztrmv_     cnt=     202477  totTime=      21.7262   called_tot=     202477  topTime=      21.7262    (%age of runtime:  0.011 )
+  zher2_     cnt=      22418  totTime=       4.7171   called_tot=      22418  topTime=       4.7171    (%age of runtime:  0.002 )
+  dgemv_     cnt=       1664  totTime=       0.2058   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+  dtrmv_     cnt=       1792  totTime=       0.0863   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+   dsyr_     cnt=         64  totTime=       0.0145   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+BLAS level 3:
+  zgemm_     cnt=    1207470  totTime=   11686.1169   called_tot=    1207470  topTime=   11686.1169    (%age of runtime:  5.762 )
+  dgemm_     cnt=     100026  totTime=     115.4786   called_tot=      98362  topTime=     115.1772    (%age of runtime:  0.057 )
+  ztrmm_     cnt=       1240  totTime=      36.3176   called_tot=       1240  topTime=      36.3176    (%age of runtime:  0.018 )
+  ztrsm_     cnt=       7860  totTime=      20.3410   called_tot=       7860  topTime=      20.3410    (%age of runtime:  0.010 )
+ zher2k_     cnt=       1059  totTime=      18.1700   called_tot=       1059  topTime=      18.1700    (%age of runtime:  0.009 )
+  zherk_     cnt=       1059  totTime=       9.0282   called_tot=       1059  topTime=       9.0282    (%age of runtime:  0.004 )
+  dtrsm_     cnt=       1664  totTime=       0.1849   called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Percentage in BLAS: 6.586462003380058
+ 
+LAPACK cases:
+----------
+ dsteqr_     cnt=        310  totTime=      61.5502 called_tot=        310  topTime=      61.5502    (%age of runtime:  0.030 )
+ dlaed4_     cnt=    1464030  totTime=      56.6339 called_tot=    1464030  topTime=      56.6339    (%age of runtime:  0.028 )
+ dlapy2_     cnt=    6311238  totTime=       2.0595 called_tot=    6095075  topTime=       1.9753    (%age of runtime:  0.001 )
+ zlaset_     cnt=     235014  totTime=       1.6338 called_tot=     235014  topTime=       1.6338    (%age of runtime:  0.001 )
+ dgetrf_     cnt=        128  totTime=       1.2897 called_tot=        128  topTime=       1.2897    (%age of runtime:  0.001 )
+ zladiv_     cnt=     474238  totTime=       1.2132 called_tot=     451820  topTime=       1.1756    (%age of runtime:  0.001 )
+ dsytrf_     cnt=         64  totTime=       1.1362 called_tot=         64  topTime=       1.1362    (%age of runtime:  0.001 )
+ dlaed6_     cnt=     628764  totTime=       1.0582 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlapy3_     cnt=     474238  totTime=       0.9544 called_tot=     451820  topTime=       0.9412    (%age of runtime:  0.000 )
+ dlaset_     cnt=      12462  totTime=       0.8329 called_tot=      12462  topTime=       0.8329    (%age of runtime:  0.000 )
+ dgetri_     cnt=        128  totTime=       0.7279 called_tot=        128  topTime=       0.7279    (%age of runtime:  0.000 )
+ zlarfg_     cnt=      22418  totTime=       0.5730 called_tot=      22418  topTime=       0.5730    (%age of runtime:  0.000 )
+ dladiv_     cnt=     474238  totTime=       0.5708 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ zlacgv_     cnt=     225068  totTime=       0.5002 called_tot=     225068  topTime=       0.5002    (%age of runtime:  0.000 )
+ dlacpy_     cnt=       1550  totTime=       0.3218 called_tot=       1550  topTime=       0.3218    (%age of runtime:  0.000 )
+ dtrtri_     cnt=        128  totTime=       0.2596 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ zlacpy_     cnt=       1240  totTime=       0.2486 called_tot=       1240  topTime=       0.2486    (%age of runtime:  0.000 )
+ dtrti2_     cnt=        128  totTime=       0.1359 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlanst_     cnt=       1860  totTime=       0.0656 called_tot=       1550  topTime=       0.0638    (%age of runtime:  0.000 )
+ dsytf2_     cnt=         64  totTime=       0.0636 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dlascl_     cnt=       4650  totTime=       0.0307 called_tot=       4650  topTime=       0.0307    (%age of runtime:  0.000 )
+ dlaswp_     cnt=       3328  totTime=       0.0208 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+ dsytri_     cnt=         64  totTime=       0.0190 called_tot=         64  topTime=       0.0190    (%age of runtime:  0.000 )
+ dlaev2_     cnt=        829  totTime=       0.0016 called_tot=          0  topTime=       0.0000    (%age of runtime:  0.000 )
+Created /tmp/armpl.blas 
+Visualize using ./blas_usage.py -x -l -i /tmp/armpl.blas
